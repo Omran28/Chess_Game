@@ -9,7 +9,7 @@ public class Knight extends Pieces {
             new Point(8, 8), new Point(8, 8), new Point(8, 8), new Point(8, 8),
             new Point(8, 8), new Point(8, 8), new Point(8, 8), new Point(8, 8),
             new Point(8, 8), new Point(8, 8), new Point(8, 8), new Point(8, 8)
-    };
+    }
     static int promotion_counter_W = 0;
     static int promotion_counter_B = 0;
 
